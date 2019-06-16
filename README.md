@@ -1,7 +1,7 @@
 # Water Animation<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
 Ce logiciel permet de créer une animation de tile pour de l'eau.
-This software aallow creating animated tile from texture and mask really easily.
+This software allow creating animated tile from texture and mask really easily.
 
 Un exemple des images requises pour effectuer la création est donnée.
 
