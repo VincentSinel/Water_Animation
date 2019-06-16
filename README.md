@@ -1,8 +1,9 @@
-# PixelArtDocument<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
+# Water Animation<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Logiciel permettant la création de damier indexé à partir d'une images et de ses couleurs pour réaliser des activités mathématiques.
+Ce logiciel permet de créer une animation de tile pour de l'eau.
+This software aallow creating animated tile from texture and mask really easily.
 
-Un exemple de chaque type de creation est disponible en image.
+Un exemple des images requises pour effectuer la création est donnée.
 
 ## Installation
 

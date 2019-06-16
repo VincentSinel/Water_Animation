@@ -1,31 +1,13 @@
 ╔═══════════════════════════════════════════════╗
-║ PixelArtDocument                V1.0.2.0      ║
+║ Water Wave                      V1.0.1.0      ║
 ║ Sinel V.  2018                                ║
 ╠═══════════════════════════════════════════════╝
 ╠═══════════════════════════════════╗
-║Derniere Mise a jour : V. 1.0.3.0  ║
+║Derniere Mise a jour : V. 1.0.1.0  ║
 ╠═══════════════════════════════════╝
 ║
-║	- Correction d'un bug lors du chargement d'une image plus grande que celle précédement enregistré.
-║
-╠═══════════════════════════════════╗
-║Ancienne Mise a jour : V. 1.0.2.0  ║
-╠═══════════════════════════════════╝
-║
-║	- Ajout de la récuperation des couleurs de l'image.
-║	- Correction du bug d'enregistrement lorsque la scrollviewer n'est pas à sa position d'origine.
-║	- Correction du bug de mauvaise identification des dénominateur lors des changement d'images.
-║	- Ajout de la couleur "Ciment".
-║
-╠═══════════════════════════════════╗
-║Ancienne Mise a jour : V. 1.0.1.0  ║
-╠═══════════════════════════════════╝
-║
-║	- Ajout de la mise a jour auto.
-║	- Ajout des gammes de couleurs.
-║	- Ajout de la suppression auto des couleurs non utilisées.
-║	- Ajout des fractions.
-║	- Ajout de l'onglet à propos.
+║	- Ajout de la prévisualisation.
+║	- Modification de la présentation.
 ║
 ╠═══════════════════════════════════╗
 ║Ancienne Mise a jour : V. 1.0.0.0  ║
