@@ -3,11 +3,11 @@
 Ce logiciel permet de créer une animation de tile pour de l'eau.
 This software allow creating animated tile from texture and mask really easily.
 
-Un exemple des images requises pour effectuer la création est donnée.
+Un exemple des images requises pour effectuer la création est donné.
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clé USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clé USB.
 
 ## Librairie
 
